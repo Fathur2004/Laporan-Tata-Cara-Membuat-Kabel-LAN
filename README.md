@@ -1,3 +1,7 @@
+Nama  : Fathur Rahman <br>
+Kelas : TK4C<br>
+NIM   : 09030282327047<br><br><br>
+#
 # <p align="center"> Laporan Tata Cara Membuat Kabel LAN </p>
 **PENGERTIAN**<br>
 Kabel LAN (Local Area Network) adalah jenis kabel yang digunakan untuk menghubungkan perangkat-perangkat dalam suatu jaringan lokal. Kabel ini berfungsi sebagai media fisik untuk mentransmisikan data antara perangkat seperti komputer, router, switch, printer, server, atau perangkat jaringan lainnya. Dalam jaringan lokal, kabel LAN memegang peranan penting dalam memastikan perangkat-perangkat tersebut dapat saling terhubung dan bertukar data dengan stabil dan cepat.
