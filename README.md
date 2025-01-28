@@ -90,5 +90,7 @@ Kabel LAN adalah bagian penting dari infrastruktur jaringan modern, baik untuk k
      7. Putih-Coklat
      8. Coklat <br><br>
 2. Potong Kabel UTP
-   Potong kabel UTP sesuai panjang yang dibutuhkan menggunakan cable cutter, seperti gambar di bawah ini.
+   Potong kabel UTP sesuai panjang yang dibutuhkan menggunakan cable cutter, seperti gambar di bawah ini.<br>
+   ![Build](fathur.jpg)
+
    
