@@ -91,6 +91,29 @@ Kabel LAN adalah bagian penting dari infrastruktur jaringan modern, baik untuk k
      8. Coklat <br><br>
 2. Potong Kabel UTP
    Potong kabel UTP sesuai panjang yang dibutuhkan menggunakan cable cutter, seperti gambar di bawah ini.<br>
-   ![Alt Text](fathur1.jpg)
+   ![alt text](https://github.com/Fathur2004/Laporan-Tata-Cara-Membuat-Kabel-LAN/blob/main/Build/fathur1.jpg?raw=true) <br><br>
+
+3. Kupas Kulit Kabel
+   - Gunakan cable stripper untuk mengupas sekitar 2-3 cm bagian luar kabel UTP. Anda akan melihat 4 pasang kabel berwarna (8 kabel).<br><br>
+4. Atur Urutan Kabel
+   - Pisahkan dan susun kabel sesuai urutan warna yang diinginkan (misalnya standar 568B). Pastikan kabel lurus dan tidak saling menyilang, Urutkan seperti contoh gambar di bawah.<br>
+     ![Alt Text](https://th.bing.com/th/id/OIP.m7ZmZA2GhULmAMP4h8WtUQHaEY?rs=1&pid=ImgDetMain)<br><br>
+5. Potong Kabel Secara Rata
+   - Setelah kabel disusun, potong ujung kabel agar rata menggunakan cable cutter.<br><br>
+6. Pasang Konektor RJ45
+   - Masukkan kabel yang sudah disusun ke dalam konektor RJ45 dengan bagian klip menghadap ke bawah. Pastikan setiap kabel masuk ke slot konektor dengan benar.<br>
+   ![alt text](https://github.com/Fathur2004/Laporan-Tata-Cara-Membuat-Kabel-LAN/blob/main/Build/fathur2.jpg?raw=true)
+7. Jepit Konektor
+   - Gunakan crimping tool untuk menjepit konektor RJ45 ke kabel. Tekan crimping tool dengan kuat untuk memastikan konektor terpasang dengan baik.<br>
+     ![Alt Text](https://th.bing.com/th/id/OIP.LMwTCaBtfrGnS86l7uqfogHaGQ?rs=1&pid=ImgDetMain)
+8. Uji Kabel dengan Tester
+   - Gunakan tester kabel LAN untuk memeriksa apakah kabel sudah berfungsi dengan baik. Jika ada masalah, periksa kembali urutan kabel dan konektor.<br>
+     ![alt text](https://github.com/Fathur2004/Laporan-Tata-Cara-Membuat-Kabel-LAN/blob/main/Build/fathur3.jpg?raw=true)<br>
+     ![alt text](https://github.com/Fathur2004/Laporan-Tata-Cara-Membuat-Kabel-LAN/blob/main/Build/fathur4.jpg?raw=true)
+#
+   **Kesimpulan:**
+   Kabel LAN (Local Area Network) adalah jenis kabel yang digunakan untuk menghubungkan perangkat dalam jaringan lokal, seperti komputer, router, atau printer. Kabel ini memungkinkan transfer data dengan kecepatan tinggi, koneksi yang stabil, dan latensi rendah, sehingga sering digunakan di rumah, kantor, dan pusat data. Jenis yang umum meliputi kabel UTP, STP, dan fiber optic, dengan pilihan kategori seperti Cat 5e, Cat 6, hingga Cat 7 yang mendukung berbagai kebutuhan jaringan modern.
+     
+
 
    
