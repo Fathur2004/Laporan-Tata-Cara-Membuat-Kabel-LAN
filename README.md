@@ -109,7 +109,7 @@ Kabel LAN adalah bagian penting dari infrastruktur jaringan modern, baik untuk k
    ![alt text](https://github.com/Fathur2004/Laporan-Tata-Cara-Membuat-Kabel-LAN/blob/main/Build/fathur2.jpg?raw=true)
 7. Jepit Konektor
    - Gunakan crimping tool untuk menjepit konektor RJ45 ke kabel. Tekan crimping tool dengan kuat untuk memastikan konektor terpasang dengan baik.<br>
-     ![Alt Text](https://th.bing.com/th/id/OIP.LMwTCaBtfrGnS86l7uqfogHaGQ?rs=1&pid=ImgDetMain)
+   
 8. Uji Kabel dengan Tester
    - Gunakan tester kabel LAN untuk memeriksa apakah kabel sudah berfungsi dengan baik. Jika ada masalah, periksa kembali urutan kabel dan konektor.<br>
      ![alt text](https://github.com/Fathur2004/Laporan-Tata-Cara-Membuat-Kabel-LAN/blob/main/Build/fathur3.jpg?raw=true)<br>
